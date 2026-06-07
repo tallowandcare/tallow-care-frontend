@@ -108,6 +108,8 @@ export default function Login() {
   };
 
   const googleLogin = useGoogleLogin({
+    ux_mode: 'redirect',
+    redirect_uri: 'https://tallowandcare.in',
     onSuccess: async (tokenResponse) => {
       console.log('[Login] Google OAuth success → sending access token to backend...');
       setLoading(true);
