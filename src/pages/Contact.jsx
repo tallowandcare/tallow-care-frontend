@@ -338,7 +338,7 @@ export default function Contact({ showToast }) {
                 </h4>
 
                 <p>
-                  +1 (800) 123-4567
+                  +91 9457294984
                   <br />
                   Mon–Fri, 9am–6pm EST
                 </p>
@@ -361,7 +361,7 @@ export default function Contact({ showToast }) {
                 </h4>
 
                 <p>
-                  hello@tallowcare.com
+                  tallowandcare@gmail.com
                   <br />
                   We reply within 24 hours
                 </p>
@@ -384,8 +384,7 @@ export default function Contact({ showToast }) {
                 </h4>
 
                 <p>
-                  123 Natural Way,
-                  Austin, TX 78701
+                  https://maps.app.goo.gl/u3jSuNRAPp5hRijG8?g_st=aw
                   <br />
                   Open Mon–Sat, 10am–5pm
                 </p>
