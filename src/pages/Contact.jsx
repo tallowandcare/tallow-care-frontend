@@ -338,7 +338,7 @@ export default function Contact({ showToast }) {
                 </h4>
 
                 <p>
-                  +91 9457294984
+                  <a href="tel:+919457294984">+91 9457294984</a>
                   <br />
                   Mon–Fri, 9am–6pm EST
                 </p>
@@ -361,8 +361,8 @@ export default function Contact({ showToast }) {
                 </h4>
 
                 <p>
-                  tallowandcare@gmail.com
-                  <br />
+                    <a href="mailto:tallowandcare@gmail.com">tallowandcare@gmail.com</a>
+                    <br />
                   We reply within 24 hours
                 </p>
 
@@ -384,8 +384,9 @@ export default function Contact({ showToast }) {
                 </h4>
 
                 <p>
-                  https://maps.app.goo.gl/u3jSuNRAPp5hRijG8?g_st=aw
-                  <br />
+                  <a href="https://maps.app.goo.gl/u3jSuNRAPp5hRijG8?g_st=aw" target="_blank" rel="noopener noreferrer">
+                    View on Google Maps
+                  </a>            
                   Open Mon–Sat, 10am–5pm
                 </p>
 
