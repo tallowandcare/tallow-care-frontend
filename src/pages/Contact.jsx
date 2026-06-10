@@ -361,8 +361,8 @@ export default function Contact({ showToast }) {
                 </h4>
 
                 <p>
-                    <a href="mailto:tallowandcare@gmail.com">tallowandcare@gmail.com</a>
-                    <br />
+                  <a href="mailto:tallowandcare@gmail.com" onClick={(e) => { e.preventDefault(); window.location.href = 'mailto:tallowandcare@gmail.com'; }}>tallowandcare@gmail.com</a>
+                  <br />
                   We reply within 24 hours
                 </p>
 
