@@ -361,10 +361,16 @@ export default function Contact({ showToast }) {
                 </h4>
 
                 <p>
-                  <a href="mailto:tallowandcare@gmail.com" onClick={(e) => { e.preventDefault(); window.location.href = 'mailto:tallowandcare@gmail.com'; }}>tallowandcare@gmail.com</a>
-                  <br />
-                  We reply within 24 hours
-                </p>
+<a 
+  href="https://mail.google.com/mail/?view=cm&to=tallowandcare@gmail.com"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  tallowandcare@gmail.com
+</a>
+  <br />
+  We reply within 24 hours
+</p>
 
               </div>
 
