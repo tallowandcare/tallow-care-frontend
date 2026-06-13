@@ -66,7 +66,7 @@ export default function Home() {
             <a href="#products" className="btn-primary">
               🛒 Shop Collection
             </a>
-            <span className="badge">🐾 Happy Pets</span>
+            <span className="badge"></span>
           </div>
         </div>
 
